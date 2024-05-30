@@ -13,6 +13,7 @@ window.onload = function()
         like_button = null;
         subscribe_text = null;
         like_text = null;
+        //I have no idea why am O clering the interval  I should probably remove it
         clearInterval(interval);
         interval = setInterval(like, 5000)
     });
