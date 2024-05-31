@@ -1,0 +1,28 @@
+html
+{
+    padding-right: 5vw;
+    padding-left: 5vw;
+    background-color: rgb(43, 43, 43);
+    color: white;
+}
+input
+{
+    margin-bottom: 10vh;
+}
+img
+{
+    vertical-align: text-bottom;
+    height: 2rem;
+}
+input, button
+{
+    color: white;
+    background-color: rgb(20, 20, 20);
+    text-align: center;
+    border: solid 1vh white;
+    border-radius: 3vh;
+}
+button#save
+{
+    font-size: 1.3rem;
+}
